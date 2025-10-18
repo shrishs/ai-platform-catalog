@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ai-models
+  title: AI Models
+  description: Subsystem for model services & artifacts.
+  tags: [ai, models]
+spec:
+  owner: group:ml-eng
+  lifecycle: production
+  parentSystem: ai-platform

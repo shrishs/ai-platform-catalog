@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ai-platform
+  title: AI Platform
+  description: Top-level system for AI models and integrations.
+  tags: [ai, platform]
+spec:
+  owner: group:ai-platform
+  lifecycle: production

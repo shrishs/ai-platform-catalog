@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: ai-platform-catalog
+  description: Entry point for AI Platform & subsystems
+spec:
+  targets:
+    - ./system-ai-platform.yaml
+    - ./system-ai-models.yaml
+    - ./system-mcp-integration.yaml
