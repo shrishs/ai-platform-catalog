@@ -6,6 +6,6 @@ metadata:
   description: System for MCP servers (Postgres, tools, etc.).
   tags: [mcp, integration]
 spec:
-  owner: group:platform
+  owner: group:platform-ai
   lifecycle: production
  
