@@ -3,9 +3,9 @@ kind: System
 metadata:
   name: mcp-integration
   title: MCP Integration Layer
-  description: Subsystem for MCP servers (Postgres, tools, etc.).
+  description: System for MCP servers (Postgres, tools, etc.).
   tags: [mcp, integration]
 spec:
   owner: group:platform
   lifecycle: production
-  parentSystem: ai-platform
+ 
