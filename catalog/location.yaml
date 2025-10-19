@@ -7,6 +7,7 @@ spec:
   targets:
     - ./system-ai-models.yaml
     - ./system-mcp-integration.yaml
+    - ./system-ai-agent.yaml
     - ./location-model.yaml
     - ./location-mcp.yaml
     - ./location-ai-agent.yaml    
