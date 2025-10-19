@@ -8,3 +8,5 @@ metadata:
 spec:
   owner: group:platform-ai
   lifecycle: production
+  hasPart:
+    - template:default/orchestrate-agent
