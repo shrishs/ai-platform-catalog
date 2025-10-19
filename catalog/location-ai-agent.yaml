@@ -5,4 +5,4 @@ metadata:
   description: Entry point for AI Agent and Templates
 spec:
   targets:
-    - https://github.com/shrishs/rhdh-templates/blob/main/catalog-info.yaml
+    - https://github.com/shrishs/rhdh-templates/blob/main/templates/orchestrate-agent/template.yaml
