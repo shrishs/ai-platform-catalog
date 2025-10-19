@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-model
+  description: Entry point for AI Model & resources
+spec:
+  targets:
+    - https://github.com/shrishs/model-catalog-example/blob/main/developer-model-service/catalog-info.yaml
