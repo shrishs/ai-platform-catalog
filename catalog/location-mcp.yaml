@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-mcp
+  description: Entry point for AI Platform & subsystems
+spec:
+  targets:
+    - https://github.com/shrishs/kubernetes-mcp-server/blob/main/catalog-info.yaml
