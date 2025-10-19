@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - https://github.com/shrishs/kubernetes-mcp-server/blob/main/catalog-info.yaml
+    - https://github.com/shrishs/postgres-mcp-server/blob/main/catalog-info.yaml
