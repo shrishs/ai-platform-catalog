@@ -5,9 +5,11 @@ metadata:
   description: Entry point for AI Platform & subsystems
 spec:
   targets:
+    ## Systems 
     - ./system-ai-models.yaml
     - ./system-mcp-integration.yaml
     - ./system-ai-agent.yaml
+    ## Location
     - ./location-model.yaml
     - ./location-mcp.yaml
     - ./location-ai-agent.yaml    

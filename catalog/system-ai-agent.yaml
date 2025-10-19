@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: ai-agent
-  title: Agent catalog and templates for agent creation
-  description: System for Agents.
+  title: Agent Catalog
+  description: Agent Catalog and templates for agent creation.
   tags: [agent, template]
 spec:
   owner: group:platform-ai

@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: location-model
-  description: Entry point for AI Model & resources
+  name: location-agent
+  description: Entry point for AI Agent and Templates
 spec:
   targets:
     - https://github.com/shrishs/rhdh-templates/blob/main/catalog-info.yaml
