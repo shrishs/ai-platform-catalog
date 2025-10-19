@@ -5,5 +5,6 @@ metadata:
   description: Entry point for AI Agent and Templates
 spec:
   targets:
+    - ../templates/orchestrate-agent/template.yaml
     # Look like template can ot be registered like the way other compnent
     # - https://github.com/shrishs/rhdh-templates/blob/main/templates/orchestrate-agent/template.yaml
