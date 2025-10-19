@@ -9,3 +9,4 @@ spec:
     - ./system-mcp-integration.yaml
     - ./location-model.yaml
     - ./location-mcp.yaml
+    - ./location-ai-agent.yaml    
