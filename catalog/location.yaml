@@ -13,3 +13,4 @@ spec:
     - ./location-model.yaml
     - ./location-mcp.yaml
     - ./location-ai-agent.yaml  
+    - ./location-template.yaml

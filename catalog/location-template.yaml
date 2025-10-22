@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: location-template
+  description: Entry point for AI Model & resources
+spec:
+  targets:
+    - https://github.com/backstage/software-templates/tree/main/scaffolder-templates/*/template.yaml
