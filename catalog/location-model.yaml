@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - https://github.com/shrishs/model-catalog-example/blob/main/developer-model-service/catalog-info.yaml
+    - https://github.com/shrishs/model-catalog-example/blob/main/ollama-model-service/catalog-info.yaml
